@@ -44,4 +44,4 @@ git push origin branch-name
 ```
 * Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo)
 * Wait for your PR review and merge approval!
-* __Star this repository__ for higher chance of merge approval!
+  If you like the project then Star this repository.
